@@ -162,7 +162,11 @@ img {
         margin-bottom: 4rem;
     }
 
-    body {
+    .steps {
+        margin: 0;
+    }
+
+    .why-us {
         background-color: #222222;
     }
 
@@ -173,5 +177,10 @@ img {
 
     .why-us .col-right {
         width: 100%;
+    }
+
+    .why-us {
+        padding-top: 3rem;
+        margin: 0;
     }
  }
